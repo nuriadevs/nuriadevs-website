@@ -4,12 +4,12 @@ showHero: true
 heroStyle: background
 layoutBackgroundBlur: true
 layoutBackgroundHeaderSpace: false
-cascade:
-  showReadingTime: false
-  showDate: false
-  showAuthor: false
-  showWordCount: false
-  sharingLinks: false  
+showReadingTime: false
+showDate: false
+showAuthor: false
+showWordCount: false
+sharingLinks: false  
+showZenMode: false
 ---
 ## ¡Hola! ¿Qué tal?
 
