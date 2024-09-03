@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Nuria Vázquez</title>
+    <link>http://localhost:1313/nuriadevs/en/tags/python/</link>
+    <description>Recent content in Python on Nuria Vázquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
+    <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
+    <copyright>© 2024 Nuria Vázquez</copyright>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/en/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whisper de OpenAI y Pytube</title>
+      <link>http://localhost:1313/nuriadevs/en/blog/whisperopenaipytube/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/blog/whisperopenaipytube/</guid>
+      <description>Explorando Whisper de OpenAI y Pytube para la Transcripción de Audio y Descarga de Videos #Photo by Cash Macanaya on Unsplash</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/blog/whisperopenaipytube/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Transcription of a YouTube Video</title>
+      <link>http://localhost:1313/nuriadevs/en/projects/ia/transcriptionaudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/projects/ia/transcriptionaudio/</guid>
+      <description>Python script designed to transcribe the audio of a YouTube video.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/ia/transcriptionaudio/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

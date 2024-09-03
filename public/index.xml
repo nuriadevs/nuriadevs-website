@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuria Vázquez</title>
+    <link>http://localhost:1313/nuriadevs/</link>
+    <description>Recent content on Nuria Vázquez</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
+    <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
+    <copyright>© 2024 Nuria Vázquez</copyright>
+    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Whisper de OpenAI y Pytube</title>
+      <link>http://localhost:1313/nuriadevs/blog/whisperopenaipytube/</link>
+      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/blog/whisperopenaipytube/</guid>
+      <description>Explorando Whisper de OpenAI y Pytube para la Transcripción de Audio y Descarga de Videos #Photo by Cash Macanaya on Unsplash</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/blog/whisperopenaipytube/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>App básica de Laravel 11 con Sanctum (Backend)</title>
+      <link>http://localhost:1313/nuriadevs/projects/web/laravelsacntumbasic/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/projects/web/laravelsacntumbasic/</guid>
+      <description>Aplicación desarrollada con Laravel, ofrece operaciones CRUD y un sistema básico de autenticación y registro.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/web/laravelsacntumbasic/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Foodie Finder</title>
+      <link>http://localhost:1313/nuriadevs/projects/apps/foodie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/projects/apps/foodie/</guid>
+      <description>Aplicacion móvil para almacenar recetas con sistema de autenticación y registro de usuarios.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/apps/foodie/featured.png" />
+    </item>
+    
+    <item>
+      <title>Informes elaborados con PowerBI</title>
+      <link>http://localhost:1313/nuriadevs/projects/ia/powerbi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/projects/ia/powerbi/</guid>
+      <description>Informes elaborados con Power BI para proporcionar una visualización clara y concisa de los datos analizados.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/ia/powerbi/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/nuriadevs/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/about/</guid>
+      <description>¡Hola!</description>
+      
+    </item>
+    
+    <item>
+      <title>Transcripción de un vídeo de YouTube</title>
+      <link>http://localhost:1313/nuriadevs/projects/ia/transcriptionaudio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/projects/ia/transcriptionaudio/</guid>
+      <description>Script de Python diseñado para transcribir el audio de un vídeo de YouTube.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/ia/transcriptionaudio/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Weather App</title>
+      <link>http://localhost:1313/nuriadevs/projects/apps/weather/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/projects/apps/weather/</guid>
+      <description>Aplicacion móvil para mostrar datos metereológicos de una ciudad.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/apps/weather/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>
