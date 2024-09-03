@@ -9,7 +9,7 @@ showDate: false
 showAuthor: false
 showWordCount: false
 sharingLinks: false  
-showZenMode: false
+showZenMode: true
 ---
 ## Hi there! How’s it going?
 
