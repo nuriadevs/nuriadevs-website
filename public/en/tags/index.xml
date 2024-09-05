@@ -9,7 +9,87 @@
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Data-Analysis</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/data-analysis/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/data-analysis/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/dataset/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/dataset/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jupyter</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/jupyter/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/jupyter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/matplotlib/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/matplotlib/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numpy</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/numpy/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/numpy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/pandas/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/pandas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/python/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>http://localhost:1313/nuriadevs/en/tags/seaborn/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/en/tags/seaborn/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Artificial-Intelligence</title>
       <link>http://localhost:1313/nuriadevs/en/tags/artificial-intelligence/</link>
@@ -26,16 +106,6 @@
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
       <guid>http://localhost:1313/nuriadevs/en/tags/openai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/nuriadevs/en/tags/python/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/tags/python/</guid>
       <description></description>
       
     </item>
@@ -106,16 +176,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
       <guid>http://localhost:1313/nuriadevs/en/tags/data/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Data-Analysis</title>
-      <link>http://localhost:1313/nuriadevs/en/tags/data-analysis/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/tags/data-analysis/</guid>
       <description></description>
       
     </item>

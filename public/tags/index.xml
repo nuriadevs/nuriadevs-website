@@ -9,7 +9,87 @@
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <lastBuildDate>Sat, 31 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Análisis De Datos</title>
+      <link>http://localhost:1313/nuriadevs/tags/an%C3%A1lisis-de-datos/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/an%C3%A1lisis-de-datos/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dataset</title>
+      <link>http://localhost:1313/nuriadevs/tags/dataset/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/dataset/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Jupyter</title>
+      <link>http://localhost:1313/nuriadevs/tags/jupyter/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/jupyter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Matplotlib</title>
+      <link>http://localhost:1313/nuriadevs/tags/matplotlib/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/matplotlib/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Numpy</title>
+      <link>http://localhost:1313/nuriadevs/tags/numpy/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/numpy/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Pandas</title>
+      <link>http://localhost:1313/nuriadevs/tags/pandas/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/pandas/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://localhost:1313/nuriadevs/tags/python/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/python/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Seaborn</title>
+      <link>http://localhost:1313/nuriadevs/tags/seaborn/</link>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs/tags/seaborn/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>Artificial-Intelligence</title>
       <link>http://localhost:1313/nuriadevs/tags/artificial-intelligence/</link>
@@ -26,16 +106,6 @@
       <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
       <guid>http://localhost:1313/nuriadevs/tags/openai/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>http://localhost:1313/nuriadevs/tags/python/</link>
-      <pubDate>Sat, 31 Aug 2024 00:00:00 +0000</pubDate>
-      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/tags/python/</guid>
       <description></description>
       
     </item>
