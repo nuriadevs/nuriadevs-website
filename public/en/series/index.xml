@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Nuria Vázquez</title>
-    <link>http://localhost:1313/nuriadevs/en/series/</link>
+    <link>http://localhost:1313/nuriadevs-website/en/series/</link>
     <description>Recent content in Series on Nuria Vázquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <atom:link href="http://localhost:1313/nuriadevs/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nuriadevs-website/en/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

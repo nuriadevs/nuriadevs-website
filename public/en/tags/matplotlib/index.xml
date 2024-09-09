@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matplotlib on Nuria Vázquez</title>
-    <link>http://localhost:1313/nuriadevs/en/tags/matplotlib/</link>
+    <link>http://localhost:1313/nuriadevs-website/en/tags/matplotlib/</link>
     <description>Recent content in Matplotlib on Nuria Vázquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs/en/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs-website/en/tags/matplotlib/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Análisis de Datos con Python: Un Breve Ejercicio Práctico</title>
-      <link>http://localhost:1313/nuriadevs/en/blog/analisis_datos_spotify/</link>
+      <link>http://localhost:1313/nuriadevs-website/en/blog/analisis_datos_spotify/</link>
       <pubDate>Thu, 05 Sep 2024 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/blog/analisis_datos_spotify/</guid>
+      <guid>http://localhost:1313/nuriadevs-website/en/blog/analisis_datos_spotify/</guid>
       <description>Análisis de Datos con Python: Un Breve Ejercicio Práctico #Foto de Heidi Fin en Unsplash</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/blog/analisis_datos_spotify/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs-website/blog/analisis_datos_spotify/featured.jpg" />
     </item>
     
   </channel>

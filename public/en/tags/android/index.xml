@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on Nuria Vázquez</title>
-    <link>http://localhost:1313/nuriadevs/en/tags/android/</link>
+    <link>http://localhost:1313/nuriadevs-website/en/tags/android/</link>
     <description>Recent content in Android on Nuria Vázquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <atom:link href="http://localhost:1313/nuriadevs/en/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nuriadevs-website/en/tags/android/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foodie Finder</title>
-      <link>http://localhost:1313/nuriadevs/en/projects/apps/foodie/</link>
+      <link>http://localhost:1313/nuriadevs-website/en/projects/apps/foodie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/projects/apps/foodie/</guid>
+      <guid>http://localhost:1313/nuriadevs-website/en/projects/apps/foodie/</guid>
       <description>Mobile application to store recipes with authentication system and user registration.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/apps/foodie/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs-website/projects/apps/foodie/featured.png" />
     </item>
     
     <item>
       <title>Weather App</title>
-      <link>http://localhost:1313/nuriadevs/en/projects/apps/weather/</link>
+      <link>http://localhost:1313/nuriadevs-website/en/projects/apps/weather/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/projects/apps/weather/</guid>
+      <guid>http://localhost:1313/nuriadevs-website/en/projects/apps/weather/</guid>
       <description>Mobile application to display weather data for a city.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/apps/weather/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs-website/projects/apps/weather/featured.jpg" />
     </item>
     
   </channel>

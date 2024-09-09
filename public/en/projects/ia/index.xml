@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI Projects on Nuria Vázquez</title>
-    <link>http://localhost:1313/nuriadevs/en/projects/ia/</link>
+    <link>http://localhost:1313/nuriadevs-website/en/projects/ia/</link>
     <description>Recent content in AI Projects on Nuria Vázquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <atom:link href="http://localhost:1313/nuriadevs/en/projects/ia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nuriadevs-website/en/projects/ia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Reports created with PowerBI</title>
-      <link>http://localhost:1313/nuriadevs/en/projects/ia/powerbi/</link>
+      <link>http://localhost:1313/nuriadevs-website/en/projects/ia/powerbi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/projects/ia/powerbi/</guid>
+      <guid>http://localhost:1313/nuriadevs-website/en/projects/ia/powerbi/</guid>
       <description>Reports created with Power BI to provide a clear and concise visualization of the analyzed data.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/ia/powerbi/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs-website/projects/ia/powerbi/featured.png" />
     </item>
     
     <item>
       <title>Transcription of a YouTube Video</title>
-      <link>http://localhost:1313/nuriadevs/en/projects/ia/transcriptionaudio/</link>
+      <link>http://localhost:1313/nuriadevs-website/en/projects/ia/transcriptionaudio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/projects/ia/transcriptionaudio/</guid>
+      <guid>http://localhost:1313/nuriadevs-website/en/projects/ia/transcriptionaudio/</guid>
       <description>Python script designed to transcribe the audio of a YouTube video.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/ia/transcriptionaudio/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs-website/projects/ia/transcriptionaudio/featured.jpg" />
     </item>
     
   </channel>

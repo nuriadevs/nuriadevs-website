@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Nuria Vázquez</title>
-    <link>http://localhost:1313/nuriadevs/en/tags/api/</link>
+    <link>http://localhost:1313/nuriadevs-website/en/tags/api/</link>
     <description>Recent content in Api on Nuria Vázquez</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <atom:link href="http://localhost:1313/nuriadevs/en/tags/api/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nuriadevs-website/en/tags/api/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Foodie Finder</title>
-      <link>http://localhost:1313/nuriadevs/en/projects/apps/foodie/</link>
+      <link>http://localhost:1313/nuriadevs-website/en/projects/apps/foodie/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
-      <guid>http://localhost:1313/nuriadevs/en/projects/apps/foodie/</guid>
+      <guid>http://localhost:1313/nuriadevs-website/en/projects/apps/foodie/</guid>
       <description>Mobile application to store recipes with authentication system and user registration.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs/projects/apps/foodie/featured.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/nuriadevs-website/projects/apps/foodie/featured.png" />
     </item>
     
   </channel>

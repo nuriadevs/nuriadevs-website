@@ -3,142 +3,142 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/blog/analisis_datos_spotify/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/blog/analisis_datos_spotify/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/blog/analisis_datos_spotify/"
+      href="http://localhost:1313/nuriadevs-website/blog/analisis_datos_spotify/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/blog/analisis_datos_spotify/"
+      href="http://localhost:1313/nuriadevs-website/en/blog/analisis_datos_spotify/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/blog/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/blog/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/blog/"
+      href="http://localhost:1313/nuriadevs-website/blog/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/blog/"
+      href="http://localhost:1313/nuriadevs-website/en/blog/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/</loc>
     <lastmod>2024-09-05T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/"
+      href="http://localhost:1313/nuriadevs-website/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/"
+      href="http://localhost:1313/nuriadevs-website/en/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/blog/whisperopenaipytube/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/blog/whisperopenaipytube/</loc>
     <lastmod>2024-08-31T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/blog/whisperopenaipytube/"
+      href="http://localhost:1313/nuriadevs-website/blog/whisperopenaipytube/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/blog/whisperopenaipytube/"
+      href="http://localhost:1313/nuriadevs-website/en/blog/whisperopenaipytube/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/about/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/about/"
+      href="http://localhost:1313/nuriadevs-website/about/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/about/"
+      href="http://localhost:1313/nuriadevs-website/en/about/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/projects/ia/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/projects/ia/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/projects/ia/"
+      href="http://localhost:1313/nuriadevs-website/projects/ia/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/projects/ia/"
+      href="http://localhost:1313/nuriadevs-website/en/projects/ia/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/projects/apps/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/projects/apps/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/projects/apps/"
+      href="http://localhost:1313/nuriadevs-website/projects/apps/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/projects/apps/"
+      href="http://localhost:1313/nuriadevs-website/en/projects/apps/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/projects/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/projects/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/projects/"
+      href="http://localhost:1313/nuriadevs-website/projects/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/projects/"
+      href="http://localhost:1313/nuriadevs-website/en/projects/"
     />
   </url>
   <url>
-    <loc>http://localhost:1313/nuriadevs/en/projects/web/</loc>
+    <loc>http://localhost:1313/nuriadevs-website/en/projects/web/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="es"
-      href="http://localhost:1313/nuriadevs/projects/web/"
+      href="http://localhost:1313/nuriadevs-website/projects/web/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="http://localhost:1313/nuriadevs/en/projects/web/"
+      href="http://localhost:1313/nuriadevs-website/en/projects/web/"
     />
   </url>
 </urlset>
