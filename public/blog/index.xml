@@ -9,7 +9,17 @@
     <managingEditor>nuriadevs@gmail.com (Nuria Vázquez)</managingEditor>
     <webMaster>nuriadevs@gmail.com (Nuria Vázquez)</webMaster>
     <copyright>© 2024 Nuria Vázquez</copyright>
-    <lastBuildDate>Thu, 05 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs-website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/nuriadevs-website/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Power BI: Informe sobre Salarios y Perfiles en Ingeniería de Datos</title>
+      <link>http://localhost:1313/nuriadevs-website/blog/powerbi_ingenieria_datos/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <author>nuriadevs@gmail.com (Nuria Vázquez)</author>
+      <guid>http://localhost:1313/nuriadevs-website/blog/powerbi_ingenieria_datos/</guid>
+      <description>Informe sobre Salarios y Empleo en Ingeniería de Datos con Power BI (2024) #Foto de Lukas Blazek en Unsplash</description>
+      
+    </item>
+    
     <item>
       <title>Análisis de Datos con Python: Un Breve Ejercicio Práctico</title>
       <link>http://localhost:1313/nuriadevs-website/blog/analisis_datos_spotify/</link>
