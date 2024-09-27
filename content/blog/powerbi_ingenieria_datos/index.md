@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Power BI: Informe sobre Salarios y Perfiles en Ingeniería de Datos"
 date: 2024-09-27
 draft: false
@@ -8,7 +8,7 @@ tags: [powerbi, análisis de datos, empresa, datos, informes, cuadro de mandos, 
 
 # Informe sobre Salarios y Empleo en Ingeniería de Datos con Power BI (2024)
 
-![data](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![datas](https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 Foto de [Lukas Blazek](https://unsplash.com/es/@goumbik?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) en [Unsplash](https://unsplash.com/es/fotos/computadora-portatil-encendida-en-negro-y-gris-mcSDtbWXUZU?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)
 
@@ -161,7 +161,3 @@ En este ejercicio, he realizado pocas modificaciones en los gráficos. He añadi
 ## Conclusión 
 
 Aplicando el filtro por años, se observa un crecimiento considerable de los perfiles. La creciente implementación de la inteligencia artificial por parte de las empresas ha impulsado la creación de más empleos en la industria de la ingeniería de datos. Además, puedes identificar y analizar a nivel global el promedio del salario anual para cada rol.
-
-
-
-
